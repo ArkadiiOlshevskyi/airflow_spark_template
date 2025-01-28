@@ -1,5 +1,7 @@
-# airflow_spark_template
-AiflowAstro | Spark Cluster
+# Launch
+Use this repo as a template.
+All code is settled already.
 
-Update
-
+1) astro dev start
+2) create Spark connection in airflow
+3) run dag - succsess!
